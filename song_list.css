@@ -1,0 +1,25 @@
+/* CSS file for Assignment 3: Song List */
+setList {
+    border: solid;
+    padding: 15px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+heading {
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+title, artist, genre, year {
+    display: block;
+}
+
+title {
+    font-weight: bold;
+}
+
+song {
+    padding: 15px;
+}

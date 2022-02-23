@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href = "song_list.css" ?>
+<setList>
+    <heading>Midnight Googles Set List</heading>
+    <song>
+        <title>Shake it Off</title>
+        <artist>Taylor Swift</artist>
+        <genre>Pop</genre>
+        <year>2016</year>
+    </song> 
+    <song>
+        <title>Starships</title>
+        <artist>Nicki Minaj</artist>
+        <genre>Hip-Hop</genre>
+        <genre>Rap</genre>
+        <genre>Synth-pop</genre>
+        <year>2012</year>
+    </song> 
+    <song>
+        <title>Uptown Funk</title>
+        <artist>Bruno Mars</artist>
+        <genre>Funk</genre>
+        <genre>Pop</genre>
+        <year>2014</year>
+    </song> 
+    <song>
+        <title>I Love It</title>
+        <artist>Icona Pop</artist>
+        <genre>Pop</genre>
+        <year>2012</year>
+    </song> 
+    <song>
+        <title>Die Young</title>
+        <artist>Kesha</artist>
+        <genre>Dance Pop</genre>
+        <genre>Alternative/Indie</genre>
+        <genre>Hip-Hop/Rap</genre>
+        <year>2012</year>
+    </song> 
+    <song>
+        <title>Chicken Fried</title>
+        <artist>Zac Brown Band</artist>
+        <genre>Country</genre>
+        <year>2005</year>
+    </song> 
+    <song>
+        <title>Little Lion Man</title>
+        <artist>Mumford and Sons</artist>
+        <genre>Indie Folk</genre>
+        <year>2009</year>
+    </song> 
+    <song>
+        <title>Mr. Brightside</title>
+        <artist>The Killers</artist>
+        <genre>Alternative Rock</genre>
+        <genre>New Wave</genre>
+        <year>2003</year>
+    </song> 
+    <song>
+        <title>All the Small Things</title>
+        <artist>Blink 182</artist>
+        <genre>Pop Punk</genre>
+        <year>2000</year>
+    </song> 
+    <song>
+        <title>Hey Ya!</title>
+        <artist>Outkast</artist>
+        <genre>Soul</genre>
+        <genre>Funk</genre>
+        <year>2003</year>
+    </song>        
+</setList>
+
+   
